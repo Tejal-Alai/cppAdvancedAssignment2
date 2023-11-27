@@ -1,5 +1,5 @@
 # cppAdvancedAssignment2
-# Assignment 1 - Reader Class
+# Assignment 2 - Reader Class
  
 ## Overview
  
